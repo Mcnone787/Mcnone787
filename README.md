@@ -10,6 +10,7 @@
   os pido paciencia ^^
 <h3 align="left">Contactar conmigo:</h3>
 <p align="left">
+    adriamoyaduran787@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
