@@ -6,8 +6,9 @@
 - 👨‍💻 Podeis ver algunos de mis proyectos (no todos) en mi portafolio [https://mcnone787.github.io/](https://mcnone787.github.io/)
 
 - Podeis contactarme en mi correo **adriamoyaduran787@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- Vereis que faltan algunos repositorios es por que son mas bien privados los codigos yyy por que muchos de los proyectos los tengo de acabar de subir aqui ^^
+  os pido paciencia ^^
+<h3 align="left">Contactar conmigo:</h3>
 <p align="left">
 </p>
 
