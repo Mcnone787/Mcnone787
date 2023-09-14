@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adria Moya</h1>
 <h3 align="center">Tecnico informatico desarollador frot-end y back-end</h3>
 
-- Actualmente estoy estudiando **DAW1**
+- Actualmente estoy estudiando **DAW2**
 
 - 👨‍💻 Podeis ver algunos de mis proyectos (no todos) en mi portafolio [https://mcnone787.github.io/](https://mcnone787.github.io/)
 
